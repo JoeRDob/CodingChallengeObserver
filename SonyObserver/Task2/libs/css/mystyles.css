@@ -1,0 +1,16 @@
+table, th, td {
+    border: 1px solid black;
+    width: 50%;
+  }
+
+.PRODUCING {
+  background-color: green;
+}
+
+.IDLE {
+  background-color: yellow;
+}
+
+.STARVED {
+  background-color: #d82019;
+}
